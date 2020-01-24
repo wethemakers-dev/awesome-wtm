@@ -18,6 +18,7 @@
 - [Basic Concepts](#basic-concepts)
   - [HTML](#html)
   - [CSS](#css)
+  - [RTL](#rtl)
   - [Javascript](#javascript)
   - [Terminal](#terminal)
   - [Git](#git)
