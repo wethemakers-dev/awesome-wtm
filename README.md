@@ -73,5 +73,12 @@
 
 - [React-Native Express](http://www.reactnativeexpress.com/)
 
+### Nestjs
+
+- [Nestjs](https://nestjs.com/)
+- [Integration with NestJS](https://dev.to/saltyshiomix/an-introduction-of-the-integration-library-with-nestjs-and-next-js-29f1)
+- [Exmaple Nestjs, Nextjs](https://github.com/kelvin-mai/nest-next-example)
+- [Nextjs](https://nextjs.org/docs/getting-started)
+
 ## Youtube Channels
 - 
