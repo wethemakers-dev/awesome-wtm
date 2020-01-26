@@ -1,0 +1,42 @@
+{
+  "name": "awesome-wtm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:lint": "remark . -o",
+    "test:links": "node ./scripts/links.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wethemakers-dev/awesome-wtm.git"
+  },
+  "keywords": [],
+  "author": "WTM Team <team@wethemakers.dev>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wethemakers-dev/awesome-wtm/issues"
+  },
+  "homepage": "https://github.com/wethemakers-dev/awesome-wtm#readme",
+  "devDependencies": {
+    "husky": "^4.2.1",
+    "lint-staged": "^10.0.2",
+    "markdown-link-extractor": "^1.2.2",
+    "remark-cli": "^7.0.1",
+    "remark-lint": "^6.0.5",
+    "remark-lint-are-links-valid-duplicate": "^0.2.2",
+    "remark-lint-no-dead-urls": "^1.0.1",
+    "remark-preset-lint-recommended": "^3.0.3",
+    "remark-toc": "^7.0.0",
+    "remark-validate-links": "^9.2.0",
+    "to-vfile": "^6.0.0",
+    "vfile-reporter": "^6.0.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.md": "npm run test:lint"
+  }
+}

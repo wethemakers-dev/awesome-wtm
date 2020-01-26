@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "remark-preset-lint-recommended",
+    "lint",
+    "toc",
+    [
+      "remark-lint-list-item-indent",
+      false
+    ]
+  ]
+}
