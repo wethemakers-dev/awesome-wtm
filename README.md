@@ -14,7 +14,7 @@
 
 ## Table of Contents
 
--   [Basic Concepts](#basic-concepts)
+-   [Basic Concepts](#basic)
 
     -   [Terminal](#terminal)
     -   [Git](#git)
