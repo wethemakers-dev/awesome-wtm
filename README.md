@@ -111,6 +111,8 @@
 ### NextJS
 
 - [NextJS Getting Started](https://nextjs.org/learn/basics/getting-started)
+- [Integration with NestJS](https://dev.to/saltyshiomix/an-introduction-of-the-integration-library-with-nestjs-and-next-js-29f1)
+- [Example NestJS, NextJS](https://github.com/kelvin-mai/nest-next-example)
 
 ### NestJS
 
@@ -137,13 +139,6 @@
 ### Linters
 
 - [Getting Started with ESLint](https://eslint.org/docs/user-guide/getting-started)
-
-### Nestjs
-
-- [Nestjs](https://nestjs.com/)
-- [Integration with NestJS](https://dev.to/saltyshiomix/an-introduction-of-the-integration-library-with-nestjs-and-next-js-29f1)
-- [Exmaple Nestjs, Nextjs](https://github.com/kelvin-mai/nest-next-example)
-- [Nextjs](https://nextjs.org/docs/getting-started)
 
 ## Youtube Channels
 
