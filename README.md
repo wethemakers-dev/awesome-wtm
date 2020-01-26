@@ -49,6 +49,7 @@
 
 -   [Terminal: the basics](https://www.cs.virginia.edu/diochnos/tips/terminal/basics.html)
 -   [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+-   [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 
 ### Git
 
@@ -72,7 +73,7 @@
 
 -   [JavaScript Tutorials](https://htmldog.com/guides/javascript/)
 -   [ECMAScript 6](https://github.com/lukehoban/es6features#readme)
--   [Learn ES2015](https://babeljs.io/docs/en/learn/)
+-   [Learn ES2015](https://babels.io/docs/en/learn/)
 
 ### TypeScript
 
