@@ -24,6 +24,8 @@
     -   [TypeScript](#typescript)
     -   [NodeJS](#nodejs)
     -   [PHP](#php)
+    -   [MongoDB](#mongodb)
+    -   [MySQL](#mysql)
 
 -   [Frameworks & Libraries](#frameworks--libraries)
 
@@ -54,13 +56,18 @@
 
 -   [Learn Git](https://try.github.io/) - Resources to learn Git
 -   [Learn Git Branching](https://learngitbranching.js.org/)
+-   [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#readme)
+-   [Git Tips](https://github.com/git-tips/tips#readme)
 
 ### HTML
 
+-   [Awesome HTML5](https://github.com/diegocard/awesome-html5#readme)
 -   [HTML Tutorials](https://htmldog.com/guides/html/)
 
 ### CSS
 
+-   [Awesome CSS](https://github.com/awesome-css-group/awesome-css#readme)
+-   [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning#readme)
 -   [CSS Tutorials](https://htmldog.com/guides/css/)
 -   [LESS Tutorials](https://www.tutorialspoint.com/less/index.htm)
 -   [Sass Tutorials](https://www.tutorialspoint.com/sass/index.htm)
@@ -70,6 +77,8 @@
 
 ### Javascript
 
+-   [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
+-   [Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
 -   [JavaScript Tutorials](https://htmldog.com/guides/javascript/)
 -   [ECMAScript 6](https://github.com/lukehoban/es6features#readme)
 -   [Learn ES2015](https://babeljs.io/docs/en/learn/)
@@ -80,17 +89,29 @@
 
 ### NodeJS
 
+-   [Awesome node.js](https://github.com/sindresorhus/awesome-nodejs#readme)
 -   [nodeschool](https://nodeschool.io/#workshoppers)
 -   [Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
 
 ### PHP
 
+-   [Awesome PHP](https://github.com/ziadoz/awesome-php#readme)
 -   [PHP The Right Way](https://phptherightway.com/)
+
+### MongoDB
+
+-   [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb#readme)
+
+### MySQL
+
+-   [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql#readme)
 
 ## Frameworks & Libraries
 
 ### React
 
+-   [Awesome React](https://github.com/enaqx/awesome-react#readme)
+-   [Awesome React-Native](https://github.com/jondot/awesome-react-native#readme)
 -   [React Getting Started](https://reactjs.org/docs/getting-started.html)
 -   [React Express](http://www.react.express/)
 -   [React-Native Getting Started](https://facebook.github.io/react-native/docs/getting-started.html)
@@ -100,6 +121,7 @@
 
 ### GraphQL
 
+-   [awesome-graphql](https://github.com/chentsulin/awesome-graphql#readme)
 -   [Introduction to GraphQL](https://graphql.org/learn/)
 -   [How-To GraphQL](https://www.howtographql.com/) - The Fullstack Tutorial for GraphQL
 -   [Apollo Getting Started - React](https://www.apollographql.com/docs/react/get-started/)
@@ -115,6 +137,7 @@
 
 ### NextJS
 
+-   [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme)
 -   [NextJS Getting Started](https://nextjs.org/learn/basics/getting-started)
 -   [Integration with NestJS](https://dev.to/saltyshiomix/an-introduction-of-the-integration-library-with-nestjs-and-next-js-29f1)
 -   [Example NestJS, NextJS](https://github.com/kelvin-mai/nest-next-example)
@@ -125,6 +148,7 @@
 
 ### Magento
 
+-   [Awesome Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme)
 -   [Magento Developer - Documentation](https://devdocs.magento.com/#/individual-contributors)
 -   [Magento Developer - All Video Tutorials](https://devdocs.magento.com/videos/)
 -   [Magento 2 Tutorials](https://www.magestore.com/magento-2-tutorial/)
@@ -134,6 +158,7 @@
 
 ### Tools & More
 
+-   [Development Environment](https://github.com/sindresorhus/awesome#development-environment)
 -   [Download VSCode](https://code.visualstudio.com/Download)
 -   [VS Code ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
