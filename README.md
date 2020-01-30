@@ -125,8 +125,10 @@
 
 ### Magento
 
--   [Magento Developer Documentation](https://devdocs.magento.com/#/individual-contributors)
+-   [Magento Developer - Documentation](https://devdocs.magento.com/#/individual-contributors)
+-   [Magento Developer - All Video Tutorials](https://devdocs.magento.com/videos/)
 -   [Magento 2 Tutorials](https://www.magestore.com/magento-2-tutorial/)
+-   [Magento U - Media Space](https://magentou.mediaspace.kaltura.com/)
 
 ## Tools, Styles & Linters
 
