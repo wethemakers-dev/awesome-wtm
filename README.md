@@ -177,6 +177,11 @@
 - [Setup TSLint for React](https://www.carlrippon.com/creating-a-react-and-typescript-project/)
 - [Setup TSLint and Prettier in VS Code for React App with Typescript](https://medium.com/@cosmvs/set-up-tslint-and-prettier-in-vs-code-for-react-app-with-typescript-5b7f5895ce37)
 
+### Code Formatters
+
+- [What is Prettier?](https://prettier.io/docs/en/index.html)
+- [Prettier Integrating with Linters](https://prettier.io/docs/en/integrating-with-linters.html)
+
 ## Youtube Channels
 
 - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/playlists)
