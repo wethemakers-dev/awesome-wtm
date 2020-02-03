@@ -188,3 +188,6 @@
 - [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/playlists)
 - [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/playlists)
 - [CodingTheSmartWay.com](https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ/playlists)
+- [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+- [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
