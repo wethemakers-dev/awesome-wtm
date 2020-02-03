@@ -86,6 +86,7 @@
 ### TypeScript
 
 - [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- [Introduction to Typescript](https://areknawo.com/typescript-introduction/)
 - [React Typescript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - [Create-react-app With Typescript](https://create-react-app.dev/docs/adding-typescript/)
 - [Setup Redux For React Typescript Projects](https://redux.js.org/recipes/usage-with-typescript/)
