@@ -42,6 +42,7 @@
     -   [Tools & More](#tools--more)
     -   [Code Styles](#code-styles)
     -   [Linters](#linters)
+    -   [Code Formatters](#code-formatters)
 
 -   [Youtube Channels](#youtube-channels)
 
@@ -86,6 +87,10 @@
 ### TypeScript
 
 -   [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+-   [Introduction to Typescript](https://areknawo.com/typescript-introduction/)
+-   [React Typescript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+-   [Create-react-app With Typescript](https://create-react-app.dev/docs/adding-typescript/)
+-   [Setup Redux For React Typescript Projects](https://redux.js.org/recipes/usage-with-typescript/)
 
 ### NodeJS
 
@@ -171,6 +176,13 @@
 ### Linters
 
 -   [Getting Started with ESLint](https://eslint.org/docs/user-guide/getting-started)
+-   [Setup TSLint for React](https://www.carlrippon.com/creating-a-react-and-typescript-project/)
+-   [Setup TSLint and Prettier in VS Code for React App with Typescript](https://medium.com/@cosmvs/set-up-tslint-and-prettier-in-vs-code-for-react-app-with-typescript-5b7f5895ce37)
+
+### Code Formatters
+
+-   [What is Prettier?](https://prettier.io/docs/en/index.html)
+-   [Prettier Integrating with Linters](https://prettier.io/docs/en/integrating-with-linters.html)
 
 ## Youtube Channels
 
@@ -178,3 +190,6 @@
 -   [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/playlists)
 -   [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/playlists)
 -   [CodingTheSmartWay.com](https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ/playlists)
+-   [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+-   [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+-   [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
