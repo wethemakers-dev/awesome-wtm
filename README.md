@@ -59,6 +59,7 @@
 -   [Learn Git Branching](https://learngitbranching.js.org/)
 -   [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#readme)
 -   [Git Tips](https://github.com/git-tips/tips#readme)
+-   [.gitignore Generator](http://gitignore.io/)
 
 ### HTML
 
