@@ -52,6 +52,8 @@
 
 -   [Terminal: the basics](https://www.cs.virginia.edu/diochnos/tips/terminal/basics.html)
 -   [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+-   [Oh-My-Zsh](https://github.com/ohmyzsh/ohmyzsh)
+-   [Tmux](https://github.com/tmux/tmux)
 
 ### Git
 
