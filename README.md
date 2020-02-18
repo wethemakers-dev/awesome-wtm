@@ -130,6 +130,7 @@
 -   [awesome-graphql](https://github.com/chentsulin/awesome-graphql#readme)
 -   [Introduction to GraphQL](https://graphql.org/learn/)
 -   [How-To GraphQL](https://www.howtographql.com/) - The Fullstack Tutorial for GraphQL
+-   [Introduction to GraphQL: By Github](https://developer.github.com/v4/guides/)
 -   [Apollo Getting Started - React](https://www.apollographql.com/docs/react/get-started/)
 -   [Full-stack React + GraphQL Tutorial](https://blog.apollographql.com/full-stack-react-graphql-tutorial-582ac8d24e3b)
 
