@@ -126,12 +126,14 @@
 -   [React-Native Express](http://www.reactnativeexpress.com/)
 -   [Getting Started with Redux](https://redux.js.org/introduction/getting-started)
 -   [Learn Redux](https://medium.com/codingthesmartway-com-blog/learn-redux-introduction-to-state-management-with-react-b87bc570b12a)
+-   [React Router with Typescript](https://itnext.io/a-react-router-from-scratch-in-typescript-f0eec6ccb293)
 
 ### GraphQL
 
 -   [awesome-graphql](https://github.com/chentsulin/awesome-graphql#readme)
 -   [Introduction to GraphQL](https://graphql.org/learn/)
 -   [How-To GraphQL](https://www.howtographql.com/) - The Fullstack Tutorial for GraphQL
+-   [Introduction to GraphQL: By Github](https://developer.github.com/v4/guides/)
 -   [Apollo Getting Started - React](https://www.apollographql.com/docs/react/get-started/)
 -   [Full-stack React + GraphQL Tutorial](https://blog.apollographql.com/full-stack-react-graphql-tutorial-582ac8d24e3b)
 
@@ -169,6 +171,8 @@
 -   [Development Environment](https://github.com/sindresorhus/awesome#development-environment)
 -   [Download VSCode](https://code.visualstudio.com/Download)
 -   [VS Code ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+-   [The Ultimate VSCode Setup](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
+-   [HTML/CSS to Images](https://htmlcsstoimage.com/)
 
 ### Code Styles
 
@@ -196,3 +200,6 @@
 -   [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 -   [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
 -   [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+-   [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+-   [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
+-   [Full Stack Talks](https://www.youtube.com/channel/UCpq2_V-9AYYUHSsjoJZPUTg)
