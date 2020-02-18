@@ -123,6 +123,7 @@
 -   [React-Native Express](http://www.reactnativeexpress.com/)
 -   [Getting Started with Redux](https://redux.js.org/introduction/getting-started)
 -   [Learn Redux](https://medium.com/codingthesmartway-com-blog/learn-redux-introduction-to-state-management-with-react-b87bc570b12a)
+-   [React Router with Typescript](https://itnext.io/a-react-router-from-scratch-in-typescript-f0eec6ccb293)
 
 ### GraphQL
 
@@ -166,6 +167,8 @@
 -   [Development Environment](https://github.com/sindresorhus/awesome#development-environment)
 -   [Download VSCode](https://code.visualstudio.com/Download)
 -   [VS Code ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+-   [The Ultimate VSCode Setup](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
+
 
 ### Code Styles
 
