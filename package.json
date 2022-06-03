@@ -20,7 +20,7 @@
   "devDependencies": {
     "husky": "^4.2.1",
     "lint-staged": "^10.0.2",
-    "markdown-link-extractor": "^1.2.2",
+    "markdown-link-extractor": "^3.0.2",
     "remark-cli": "^7.0.1",
     "remark-lint": "^6.0.5",
     "remark-lint-are-links-valid-duplicate": "^0.2.2",
